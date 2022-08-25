@@ -1,3 +1,5 @@
-"# TUTORIAL" 
+# TUTORIAL 
 this website is used for practise.
-"# TUTORIAL" 
+# TUTORIAL 
+# LOCAL DEVELOPMENT
+OPEN INDEX.HTML IN THE BROWSER 
